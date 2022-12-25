@@ -1,8 +1,5 @@
 # CAD-IT-Interview01
-Node.js app fetching API and display table data, connect to 
-```
-http://localhost:5000/
-```
+Node.js app fetching API and display table data.
 
 <!-- GETTING STARTED -->
 ## Getting Started
