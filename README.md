@@ -26,15 +26,15 @@ Follow the following instructions to get this app running on your local web brow
   ```sh
   npm install npm@latest -g
   ```
-3. Clone the repo
+3. Clone the repo with git
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/gepukrendang/CAD-IT-Interview01.git
    ```
 3. Install NPM packages written on package.json
    ```sh
    npm install
    ```
-4. Connect to localhost:3000
+4. Connect to localhost:3000 by typing the following url on your browser
    ```
    http://localhost:3000/
    ```
