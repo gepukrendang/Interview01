@@ -1,6 +1,8 @@
 # CAD-IT-Interview01
 Node.js app fetching API and display table data.
 
+![alt text](https://github.com/gepukrendang/CAD-IT-Interview01/blob/main/Screenshot%20from%202022-12-25%2010-31-49.png)
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
