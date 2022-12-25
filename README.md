@@ -20,18 +20,23 @@ Follow the following instructions to get this app running on your local web brow
 
 1. Internet is required to connect to online Api Services
 2. Install npm as prerequisites as * npm
-  ```sh
-  npm install npm@latest -g
-  ```
+   ```sh
+   npm install npm@latest -g
+   ```
 3. Clone the repo with git
    ```sh
    git clone https://github.com/gepukrendang/CAD-IT-Interview01.git
    ```
-3. Install NPM packages written on package.json
+4. Install NPM packages written on package.json
    ```sh
    npm install
    ```
-4. Connect to localhost:3000 by typing the following url on your browser
+5. Initiate the server connection by typing on your terminal:
+   ```sh
+   npm start
+   ```
+   
+6. Connect to localhost:3000 by typing the following url on your browser
    ```
    http://localhost:3000/
    ```
