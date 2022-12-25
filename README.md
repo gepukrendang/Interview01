@@ -19,10 +19,14 @@ npm installation is required to intiate this project
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Follow the following instructions to get this app running on your local web browser local host.
 
-1. Install npm
-2. Clone the repo
+1. Internet is required to connect to online Api Services
+2. Install npm as prerequisites as * npm
+  ```sh
+  npm install npm@latest -g
+  ```
+3. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
